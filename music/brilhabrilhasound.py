@@ -5,7 +5,7 @@ import time
 pygame.init()
 
 # Configurações da música
-musica_mario = "ccggaagffeeddcc"
+musica_mario = "eeecegggec"
 tempo_notas = [0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3,0.3, 0.3, 0.3]
 nota_to_int = {"c": 262, "d": 294, "e": 330, "f": 349, "g": 392, "a": 440, "b": 494, "<": 0, ">": 0}
 
